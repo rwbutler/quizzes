@@ -1,0 +1,22 @@
+{
+  "version" : 1,
+  "dashboards" : [
+    {
+      "name" : "StatusDash",
+      "providers" : [
+        {
+          "name" : "App Center",
+          "isEnabled" : true
+        },
+        {
+          "name" : "GitHub",
+          "isEnabled" : true
+        },
+        {
+          "name" : "Gitlab",
+          "isEnabled" : true
+        }
+      ]
+    }
+  ]
+}
